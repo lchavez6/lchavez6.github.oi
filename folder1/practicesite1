@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Laura Chavez Medina</title>
+  <style>
+    /* CSS for the navigation bar */
+    ul.navbar {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #333;
+    }
+    
+    ul.navbar li {
+      float: left;
+    }
+    
+    ul.navbar li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    ul.navbar li a:hover {
+      background-color: #111;
+    }
+    
+    /* CSS for the main content */
+    .container {
+      margin: 20px;
+    }
+    
+    .image {
+      text-align: center;
+    }
+    
+    /* CSS for the footer */
+    footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <!-- Navigation bar -->
+  <ul class="navbar">
+    <li><a href="#home">Work Experience</a></li>
+    <li><a href="#about">Skills</a></li>
+    <li><a href="#portfolio">Portfolio</a></li>
+    <li><a href="#career">Career</a></li>
+  </ul>
+  
+  <!-- Main content -->
+  <div class="container">
+    <h1 id="home">Laura Chavez Medina</h1>
+    
+    <div id="Work Experience">
+      <h2>Work Expereince</h2>
+      <p>
+        My work experience has consisted mostly of customer service. Although I've always wanted to teach, I haven't really had the time to do it. So I've mainly worked in restaurants as a bartender or server, as a teller, a Spanish interpreter, and a dispatcher at an airport.
+      </p>
+    </div>
+    
+    <div id="Skills">
+      <h2>Skills</h2>
+      <p>
+        I have several skills that I have acquired throughout my college career. I have taken many classes having to do with creative writing but mainly studying literature from different time periods. I have learned how to conduct research, and I've found that the time period I most like reading about is the late 18th century. Some of the classes I have taken are early British Literature, Native American Literature, Food Writing, and Literature and Human Rights.
+      </p>
+    </div>
+    
+    <div id="portfolio">
+      <h2>Portfolio</h2>
+      <p>
+        I thought I would be working on a thesis in order to get my master's degree, but instead, I just ended up taking more electives. However, I did do a lot of research regarding Kate Chopin's novel titled <i>The Awakening</i>. I wanted to research the different ways that the female space was limited in the novel. A snippet of my research papers reads as follows:<br><br>
+        
+The ideal of expected femininity was strictly enforced by society in the 19th century.
+Conceptions of the feminine ideal stem back to Queen Victorian’s reign and how it influenced not only British culture but American culture as well. American culture in the latter half of the 19th century was dominated by European traditions especially in Louisiana. In Louisiana formed an elite society of Creoles, white people of French or Spanish descent, who had strict expectations of their women; limiting their roles to mothers and wives. However, Creole women at the time, while fully domesticated, exhibited a freer manner of speech regarding their sexuality and feelings although they were still their husband’s property. This paper will argue that Kate Chopin’s The Awakening serves as an example of how a foreigner of the Creole culture is stupefied by it and easily confused between the freedoms of an American woman and the freedoms of a Creole wife. The feminine Creole oscillation between flirtation and domestication creates confusion for the foreign woman which, in Edna Pontellier’s case, leads to isolation, emotional dependencies, and even symbolic suicide.
+As the novel opens we are introduced to Edna and Léonce Pontellier while they are in Grand Isle. Chopin notes early on that there was a “main building...called “the house” to distinguish it from the cottages” (Chopin 521) showing that in this society there are clear separations between class. What is remarkable about the scene is that Edna is not by her husband’s side but with another man, young Robert Lebrun, and her husband is unbothered by it.
+Before the cottages where filled with exclusive visitors the Lebrun’s were able to enjoy the main house as a luxury and the present separation establishes Robert Lebrun as inferior to Léonce and wishing to possess what Léonce owns; his wife most notably. Despite Edna’s freedom to socialize with other men and although her marriage allows her to be part of the elite she is still only looked at by her husband as a “valuable piece of property” (522). Edna is an inadequate wife because she is uninterested in the things “which concerned [Léonce] and valued so little his conversation” (525). Yet there is also another reason why Edna, as an American wife, is unsatisfactory to her Creole husband: “She was an American woman, with a small infusion of French which seemed to have been lost in dilution” (525). The small infusion of French descent is expected to enact a special servitude and chasteness from a woman whose innate role is that of a mother and wife, but Edna Pontellier is far too American to embody these roles perfectly.
+In his article titled “Secrets and Lies: Race and Sex in the Awakening” scholar James O’Rourke argues that Chopin’s novel “extends George Washington Cable’s critique of the hypocrisy of the “white” creole society of New Orleans on racial and sexual matters” (169). In the novel Chopin displaces the assumed sexual liberty of the colored woman and attaches it to the white woman. The colored woman’s sexuality is depicted as a commodity through Robert’s interactions with Mariequita or the stunning girls he meets in Mexico (638). Mariequita walks around town shoeless but her sexuality is shown to be innocent in that she does not expect anything from the Lebrun brothers. Equally, both brothers seem to play around with Mariequita and feel that they “had some sort of claim upon [her]” (Chopin 576) which was devoide of any accountability. In contrast to Mariequita and other minority women, Edna has the luxury to pick and choose who she wishes to engage with, and she has the ability of being an artist and living independently while still retaining the support of her husband. Edna aspires to an elevated sense
+of liberty that is not a performance but rather a reality. O’Rourke believes that Edna attributes her failure in the end to her “vastly [overromanticizing] of the life of the woman who exists outside the law and whose survival depends upon her sexual allure” (175) however, I propose instead that there could be another reason for Edna’s perceived failure: her romantic emotional dependency or the tricking nature of her social condition.
+      </p>
+    </div>
+    
+    <div id="career">
+      <h2>Career</h2>
+      <p>
+        My aspirations career-wise include being able to teach high school one day because I really enjoyed my AP English classes. I also want the opportunity to teach dual enrollment and teach summer school as well. I would also like to teach as an adjunct professor at a nearby community college. My dream when I was younger was to teach abroad, but now that I am a mom, that has become more difficult. I think that teaching will be very fulfilling for me because I enjoy knowing that I am helping others and making a difference.
+      </p>
+    </div>
+  </div>
+ <div class="image">
+      <img src="https://github.com/lchavez6/lchavez6.github.oi/blob/c23a86af7041a406d24f5092ed52165468982b99/IMG_2651.jpg" alt="Laura Chavez Medina">
+    </div>
+  </div>
+  
+  <!-- Footer -->
+  <footer>
+    &copy; 2023 Laura Chavez Medina
+  </footer>
+</body>
+</html>
