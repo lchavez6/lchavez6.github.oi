@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Laura Chavez Medina</title>
+  <style>
+    /* CSS for the navigation bar */
+    ul.navbar {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #333;
+    }
+    
+    ul.navbar li {
+      float: left;
+    }
+    
+    ul.navbar li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    ul.navbar li a:hover {
+      background-color: #111;
+    }
+    
+    /* CSS for the main content */
+    .container {
+      margin: 20px;
+    }
+    
+    .image {
+      text-align: center;
+    }
+    
+    /* CSS for the footer */
+    footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <!-- Navigation bar -->
+  <ul class="navbar">
+    <li><a href="#">Home</a></li>
+    <li><a href="#">Work Experience</a></li>
+    <li><a href="#">Career</a></li>
+    <li><a href="#">Skills</a></li>
+  </ul>
+  
+  <!-- Main content -->
+  <div class="container">
+    <h1>Laura Chavez Medina</h1>
+    <p>I am a 26 year old graduate student at George Mason.
+I am getting a Master's degree in English and I just accepted a job
+at a Middle School to teach English. I am also a mom. </p>
+    <div class="image">
+      <img src="IMG_2651.jpg" alt="Laura Chavez Medina">
+    </div>
+  </div>
+  
+  <!-- Footer -->
+  <footer>
+    &copy; 2023 Laura Chavez Medina. All rights reserved.
+  </footer>
+</body>
+</html>
